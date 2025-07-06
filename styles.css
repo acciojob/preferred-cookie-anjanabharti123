@@ -6,4 +6,5 @@
 body {
   font-size: var(--fontsize);
   color: var(--fontcolor);
+  transition: all 0.3s ease;
 }
